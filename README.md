@@ -1,4 +1,4 @@
-# Naro-affiliate-zone
+# Naro-affiliate.
 <!DOCTYPE html>
 <html lang="en">
 <head>
